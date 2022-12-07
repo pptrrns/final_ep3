@@ -39,6 +39,3 @@ tema.postura <-   theme_ipsum(axis_col = "white") +
     panel.grid.minor = element_line(colour = "white"),
     plot.background = element_rect(color = "white", fill = "white")
   )
-
-# Blanco y negro
-library(unikn)

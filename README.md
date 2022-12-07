@@ -6,7 +6,7 @@
 
 En el presente trabajo retomo los resultados de la última Elección General al Parlamento de Suecia (Sveriges Riksdag) y el modelo de formación de gobiernos desarrollado por Michael Laver y Kenneth A. Shepsle en *Coalitions and cabinet government* (Lever & Shepsle, 1990). Así pues, buscaré  modelar los potenciales equilibrios en la distribución de carteras ministeriales en Suecia. Como apuntan Laver y Shepsle, para tal análisis es necesario contar con el número de asientos controlados por cada partido político; el umbral de votos necesarios para aprobar una moción de censura; las posturas de cada partido en cada dimensión de política pública a analizar; y la cartera ministerial con jurisdicción sobre dicha dimensión de política pública (Lever & Shepsle, 1996, 125–47). 
 
-En este sentido, a lo largo del trabajo presentaré los resultados de las elecciones al Parlamento, una lista de posibles coaliciones ganadoras dado el umbral para formar gobierno, y, también, retomaré las discusiones en el debate público durante el periodo de campañas. Las dimensiones de política pública con las que modelaré las posibles coaliciones las identificaré a partir de las declaraciones y preocupaciones de cada partido, así como de encuestas sobre los temas centrales para el electorado. Asimismo, los indicadores sobre la postura de cada partido en cada dimensión de política pública los tomaré de estimaciones realizadas por encuestas a expertos, en particular la *2019 Chapel Hill Expert Survey (CHES)*.
+En este sentido, a lo largo del trabajo presentaré los resultados de las elecciones al Parlamento, una lista de posibles coaliciones ganadoras dado el umbral para formar gobierno, y, también, retomaré las discusiones en el debate público durante el periodo de campañas. Las dimensiones de política pública con las que modelaré las posibles coaliciones las identificaré a partir de las declaraciones y preocupaciones de cada partido. Asimismo, los indicadores sobre la postura de cada partido en cada dimensión de política pública los tomaré de estimaciones realizadas por encuestas a expertos, en particular la *2019 Chapel Hill Expert Survey (CHES)*.
 
 #### Elección General al Parlamento de Suecia (2022)
 
@@ -15,7 +15,9 @@ Durante la campaña, Jimmie Åkesson, líder del *Sweden Democrats*, introdujo a
 
 Otro tema que cobró relevancia en la conversación fue el aumento del costo de vida en el país. Ante el aumento de la inflación, la P.M. Magdalena Andersson, líder del *Swedish Social Democratic Party*, prometió aumentar las prestaciones sociales, instituir un impuesto a la renta más alto, y apoyar a los afectados por la subida de los precios de la energía; por lo que, la discusión sobre asistencia social fue prioritaria (European Movement, 2022 ; Anderson & Kwai, 2022). Sobre este tema, el European Movement señala que "la campaña del *Swedish Social Democratic Party* se centró en 'recuperar el sistema de bienestar'; mientras que el *Moderate Party* esbozó sus planes para hacer frente a la dependencia de las contribuciones del Estado, y los *Sweden Democrats* abogaron por un 'sistema de bienestar sueco para los ciudadanos suecos', argumentando que los inmigrantes no deberían tener derecho a las ayudas del Estado hasta que estén empleados (European Movement, 2022).
 
-También tuvieron su lugar en la conversación la creciente crisis energética provocada por el conflicto ruso–ucraniano, la transición ecológica y los precios de la energía y los combustibles. (European Movement, 2022), pero "quedaron prácticamente excluidos" la adhesión del país a la OTAN y el rompiento del no–alineamiento militar, así como la estrategia sanitaria durante la pandemia (Torralba, 2022b.).
+También tuvieron su lugar en la conversación la creciente crisis energética provocada por el conflicto ruso–ucraniano, la transición ecológica y  los precios de la energía y combustibles. (European Movement, 2022), pero "quedaron prácticamente excluidos" la adhesión del país a la OTAN y el rompiento del no–alineamiento militar, así como la estrategia sanitaria durante la pandemia (Torralba, 2022b.).
+
+- *Agregar OTAN / Rusia / Política Europea*
 
 De esta forma, la discusión se dio principalmente en lo relacionado a temas de *política de bienestar – redistributiva* y *política migratoria – criminalidad*, por lo que estas dos dimensiones serán las que consideraré para el modelo de distribución de carteras. Del conjunto de carteras ministeriales que conforman al gobierno sueco (Ministry of Culture; Defence; Education and Research; Employment; Enterprise, Energy and Communications; Environment; Finance; Foreign Affairs; Health and Social Affairs; Justice; Rural Affairs), tomo para el análisis la cartera de Justicia (Minsitry of Justice) y la cartera de Finanzas (Ministro of Finance). En la cartera de Justicia se elabora la política migratoria y de asilo; y en la cartera de Finanzas se elabora la política económica, fiscal, presupuestaria, financiera, etc. (Regeringskansliet, 2014). Es decir, estas dos carteras definirán el espacio de análisis para el modelo que planteo, pues tienen jurisdicción sobre las dimensiones planteadas anteriormente.
 
@@ -50,42 +52,57 @@ Para simplificar el análisis espacial renombraré a los partidos como A, B, C, 
 
 ###### Tabla 2. Partidos que serán considerados para el análisis
 
-|                                            **Partido** |   Abrev.    | Parlamento - 2022 |
-| -----------------------------------------------------: | :---------: | :---------------- |
-|             Swedish Social Democratic Party  $(x_{0})$ |      A      | 107               |
-| Moderate Party (MP) / Christian Democratic Party (CDP) |      B      | 87                |
-|                                       Sweden Democrats |      C      | 73                |
-|  Green Party (G) / Centre Party (CP) / Left Party (LP) |      D      | 66                |
-|                                          Liberal Party |      E      | 16                |
-|                                                        | ***Total*** | 349               |
+|                                                **Partido** |   Abrev.    | Parlamento - 2022 |
+| ---------------------------------------------------------: | :---------: | :---------------- |
+|          Swedish Social Democratic Party  (SSDP) $(x_{0})$ |      A      | 107               |
+| Moderate Party (MP) / **Christian Democratic Party (CDP)** |      B      | 87                |
+|                                      Sweden Democrats (SD) |      C      | 73                |
+|  Green Party (G) / Centre Party (CP) / **Left Party (LP)** |      D      | 66                |
+|                                              Liberal Party |      E      | 16                |
+|                                                            | ***Total*** | 349               |
+
+De lo anteior, y dados los votos obtenidos por cada partido, se obtiene la siguiente lista de posibles coaliciones ganadoras al *statuos quo* $x_{0}$ -- SSDP:
+
+###### Tabla 3. Posibles coaliciones ganadoras
+
+|      |      |
+| ---: | :--: |
+|      |      |
+|      |      |
+|      |      |
 
 #### Política pública ideal: migración y redistribución
 
-Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones legislativas ganadoras, el siguiente paso es identificar las posiciones de los partidos en aquellas dimensiones de la política que suponemos les motivan a la hora de negociar la formación del gobierno", así como el punto ideal de cada partido para cada dimensión de política pública en el horizonte izquierda–derecha. (Lever & Shepsle, 1996, 127).  Así pues, para establecer la posición de política pública de cada partido tomo como base la *2019 Chapel Hill Expert Survey (CHES)*, que recoge la percepción de 421 politólogos especializados en política partidista e integración europea. 
+Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones legislativas ganadoras, el siguiente paso es identificar las posiciones de los partidos en aquellas dimensiones de la política que suponemos les motivan a la hora de negociar la formación del gobierno", así como el punto ideal de cada partido para cada dimensión de política pública en el horizonte izquierda–derecha. (Lever & Shepsle, 1996, 127).  Así pues, para establecer la posición de política pública de cada partido tomo como base la *2019 Chapel Hill Expert Survey (CHES)*, que recoge la percepción de 421 politólogos especializados en política partidista e integración europea. En los siguientes diagramas se representan los puntos ideales de cada partido (A, B, C, D y E) en cada dimensión de política pública identificada previamente para el análisis.
 
 ###### Política Pública ideal para cada partido político en el horizonte izqueirda – derecha
 
-| Diagrama 1. Política de apertura a la migración v. política restrictiva frente a la migración |
+| Diagrama 1. Política de apertura a la migración v. política restrictiva frente a la migración -- Cartera de Justicia |
 | :----------------------------------------------------------: |
+| Strongly favors a liberal policy on immigration v. Strongly favors a restrictive policy on immigration |
+| **Diagrama 2. Relevancia de la retórica antiislámica para la dirección del partido -- Cartera de Justicia** |
+|        Not important at all v.  Extremely important.         |
+| **Diagrama 3. Redistribución de la riqueza de 'ricos hacia pobres' -- Cartera de Finanzas** |
+| Strongly favors redistribution v. Strongly opposes redistribution |
+| **Diagrama 4. Redistribución de la riqueza de 'ricos hacia pobres' -- Cartera de Finanzas** |
+| Strongly favors redistribution v. Strongly opposes redistribution |
+| **Diagrama 5. Servicios públicos v. reducir impuestos  -- Cartera de Finanzas** |
+| Strongly favors improving public services v. Strongly favors reducing taxes |
+| **Diagrama 6. Posición del partido en política europea y seguridad exterior -- Cartera de Relaciones Exteriores** |
+| Strongly favors improving public services v. Strongly favors reducing taxes |
 |                                                              |
-| **Diagrama 2. Redistribución de la riqueza de 'ricos hacia pobres'.** |
-|                                                              |
-| **Diagrama 3. Redistribución de la riqueza de 'ricos hacia pobres'.** |
-|                                                              |
 
-#### Análisis espacial
+#### Análisis espacial -- winSet Calculator
 
-En el siguiente diagrama se representa en el eje horizontal la dimensión *política migratoria* capturado en la cartera Justicia, mientras que el eje vertical representa la dimensión de *política económica*, capturado en la cartera de Finanzas.
+La *política migratoria* es capturada en la cartera Justicia; la dimensión de *política económica*, capturado en la cartera de Finanzas; 
 
-###### Diagrama 3. Posibles asignaciones de carteras
-
-img src = "/Users/jtorrensh/Desktop/Proyecto Final/data/3.png" width="450">
+#### Conclusiones
 
 ##### Posibilidad de vulnerar el status quo
 
-La distribución de asientos dada la votación plantea un *status quo vulnerable*; como bien señala Carlos Torralba, "el ajustadísimo resultado deja en el aire el futuro del país escandinavo" (Torralba, 2022). Por tanto, es anticipable que el *Sweden  Democrats* (SD) busque consolidar su discurso de "rechazo frontal a la inmigración" en políticas públicas. El mismo Jimmie Åkesson, líder del *Sweden  Democrats*, aseguró que si hay un cambio en el poder, tendrán un papel central  (Torralba, 2022).
+La distribución de asientos dada la votación plantea un *status quo vulnerable*; como bien señala Carlos Torralba, "el ajustadísimo resultado deja en el aire el futuro del país escandinavo" (Torralba, 2022). 
 
-#### Conclusiones y comentarios
+Por tanto, es anticipable que el *Sweden  Democrats* (SD) busque consolidar su discurso de "rechazo frontal a la inmigración" en políticas públicas. El mismo Jimmie Åkesson, líder del *Sweden  Democrats*, aseguró que si hay un cambio en el poder, tendrán un papel central  (Torralba, 2022).
 
 * Faltaría definir:
 
@@ -95,17 +112,7 @@ $$
 
 - Además, faltaría definir el tipo de gobierno que se formará (Unified, single–party minority; etc.).
 
-**Para completar el análisis**:
-
-- Introduciré el análisis visual de la distribución de carteras;
-- Reduciré los partidos para facilitar el análisis;
-- Mejoraré la interpretación que hago de las posiciones de los partidos, así como el análisis visual;
-- Consideraré otras dimensiones de política;
-- Incorporaré un listado (conjunto) de todas las posibles coaliciones ganadoras que se formarían y de aquellas que puedan sustituir el *status quo*.
-
-**Conclusiones**:
-
-Observo la posibilidad de un *status quo* vulnerable, pero no he definido el conjunto de coaliciones creíbles que podrían ganarle.
+- Observo la posibilidad de un *status quo* vulnerable, pero no he definido el conjunto de coaliciones creíbles que podrían ganarle.
 
 #### Bibliografía
 
