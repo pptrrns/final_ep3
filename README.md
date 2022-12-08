@@ -82,7 +82,7 @@ De lo anterior, y dados los asientos de cada partido, se obtiene la siguiente li
 
 Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones legislativas ganadoras, el siguiente paso es identificar las posiciones de los partidos en aquellas dimensiones de la política que suponemos les motivan a la hora de negociar la formación del gobierno", así como el punto ideal de cada partido para cada dimensión de política pública en el horizonte izquierda–derecha. (Lever & Shepsle, 1996, 127). Para establecer la posición de política pública de cada partido tomo como base la *2019 Chapel Hill Expert Survey (CHES)*, que recoge la percepción de 421 politólogos especializados en política partidista e integración europea. En los siguientes diagramas se representan los puntos ideales de cada partido (A, B, C, D y E) en cada dimensión de política pública identificada previamente.
 
-#####  Política Pública ideal para cada partido político en el horizonte izquierda – derecha
+##### Política Pública ideal para cada partido político en el horizonte izquierda – derecha
 
 | Diagrama 1. Política de apertura a la migración v. política restrictiva frente a la migración -- Cartera de Justicia |
 | :----------------------------------------------------------: |
@@ -109,8 +109,7 @@ Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones l
 
 El análisis espacial en la WinSet Calculator (1998) arroja un *status quo vulnerable*, particularmente al comparar la cartera de Finanzas frente a la de Justicia y Relaciones Exteriores. Sin embargo, plantea un *status quo invulnerable* al comparar la cartera de Relaciones Exteriores con la de Justicia.
 
-Para el par de carteras **Finanzas v. Justicia **arroja como posibles repartos:. 
-
+Para el par de carteras **Finanzas v. Justicia **arroja como posibles repartos:
 ```r
 																	Preferred by:
 Winpoint no. 1 :  |   B |   A |    B    C    E
@@ -120,11 +119,10 @@ Winpoint no. 1 :  |   B |   A |    B    C    E
 - De esta distribución, solamente C (Finanzas) y A (Justicia) tienen un $C(X_{0}) = ∅$. 
 
 Además, para la comparación entre **Finanzas v. Relaciones Exteriores**, arroja como posibles repartos:
-
 ```R
 																	Preferred by: 
 Winpoint no. 1 :  |   B |   A |    B    C    E
-						 2 :  |   B |   D |    B    C    E
+			 2 :  |   B |   D |    B    C    E
              3 :  |   C |   A |    B    C    E <- This point has an empty winset.
              4 :  |   C |   B |    B    C    E
              5 :  |   C |   D |    B    C    E
@@ -134,7 +132,6 @@ Winpoint no. 1 :  |   B |   A |    B    C    E
 - De esta distribución, solamente C (Finanzas) y A (Relaciones Exteriores) tienen un $C(X_{0}) = ∅$
 
 Para la comparación entre **Relaciones Exteriores v. Justicia**, el modelo arroja que
-
 ```R
 Investigating :  |   A |   A | <- This point has an empty winset.
 ```
