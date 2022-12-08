@@ -1,0 +1,29 @@
+*
+* Winset data file written by Winset 5.10, Wed Dec 07 19:55:32 2022
+*
+
+Legislature	jtorrensh	349
+
+Metric	2
+Limits	0	1
+Threshold	0.5	1
+
+Dimension	anti_islam
+Dimension	eu_foreign
+Dimension	immigrate_policy
+Dimension	nationalism
+Dimension	redistribution
+Dimension	spendvtax
+
+Portfolio	Finance	redistribution
+Portfolio	Foreign Affairs	eu_foreign
+
+Party	A	107	anti_islam(0.18,0.50)	spendvtax(0.30,0.50)	immigrate_policy(0.62,0.50)	nationalism(0.45,0.50)	redistribution(0.28,0.50)	eu_foreign(0.32,0.50)
+Party	B	87	anti_islam(0.35,0.50)	spendvtax(0.68,0.50)	immigrate_policy(0.78,0.50)	nationalism(0.62,0.50)	redistribution(0.63,0.50)	eu_foreign(0.38,0.50)
+Party	C	73	anti_islam(0.79,0.50)	spendvtax(0.48,0.50)	immigrate_policy(0.98,0.50)	nationalism(0.96,0.50)	redistribution(0.47,0.50)	eu_foreign(0.13,0.50)
+Party	D	66	anti_islam(0.13,0.50)	spendvtax(0.08,0.50)	immigrate_policy(0.15,0.50)	nationalism(0.24,0.50)	redistribution(0.05,0.50)	eu_foreign(0.17,0.50)
+Party	E	16	anti_islam(0.16,0.50)	spendvtax(0.73,0.50)	immigrate_policy(0.45,0.50)	nationalism(0.25,0.50)	redistribution(0.62,0.50)	eu_foreign(0.54,0.50)
+
+
+
+
