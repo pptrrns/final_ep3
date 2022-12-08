@@ -29,80 +29,87 @@ Considerando un *umbral de 175 votos para formar gobierno* (según el capítulo 
 
 ###### Tabla 1. Resultados Elecciones Generales (Suecia 2022)
 
-|                               **Partido** | Abrev. | European Parliament Group                         | Porcentaje - 2022 | Parlamento - 2022 | Diferencial - 2018 |
-| ----------------------------------------: | ------ | :------------------------------------------------ | :---------------: | :---------------: | :----------------: |
-| Swedish Social Democratic Party $(x_{0})$ | SSDP   | Progressive  Alliance of Socialists and Democrats |      30.33%       |        107        |        + 7         |
-|                          Sweden Democrats | SD     | European Conservatives and Reformists  Group      |      20.54%       |        73         |        + 11        |
-|                            Moderate Party | MP     | European People’s Party                           |      19.10%       |        68         |        – 2         |
-|                                Left Party | LP     | The Left Group in the European Parliament         |       6.75%       |        24         |        – 4         |
-|                              Centre Party | CP     | Renew Europe Group                                |       6.71%       |        24         |        – 7         |
-|                Christian Democratic Party | CDP    | European People’s Party                           |       5.34%       |        19         |        – 3         |
-|                               Green Party | G      | Group of the Greens/European Free–Alliance        |       5.08%       |        18         |        + 2         |
-|                             Liberal Party | LIB    | Renew Europe Group                                |       4.61%       |        16         |        – 4         |
-|                             Other parties | -      | -                                                 |       1.54%       |         0         |         0          |
-|                                           |        | ***Total***                                       |       100%        |        349        |         -          |
+|                               **Partido** | Abrev. | European Parliament Group                         | Porcentaje elecciones 2022 | Parlamento  2022 | Diferencial 2018 |
+| ----------------------------------------: | ------ | :------------------------------------------------ | :------------------------: | :--------------: | :--------------: |
+| Swedish Social Democratic Party $(x_{0})$ | SSDP   | Progressive  Alliance of Socialists and Democrats |           30.33%           |       107        |       + 7        |
+|                          Sweden Democrats | SD     | European Conservatives and Reformists  Group      |           20.54%           |        73        |       + 11       |
+|                            Moderate Party | MP     | European People’s Party                           |           19.10%           |        68        |       – 2        |
+|                                Left Party | LP     | The Left Group in the European Parliament         |           6.75%            |        24        |       – 4        |
+|                              Centre Party | CP     | Renew Europe Group                                |           6.71%            |        24        |       – 7        |
+|                Christian Democratic Party | CDP    | European People’s Party                           |           5.34%            |        19        |       – 3        |
+|                               Green Party | G      | Group of the Greens/European Free–Alliance        |           5.08%            |        18        |       + 2        |
+|                             Liberal Party | LIB    | Renew Europe Group                                |           4.61%            |        16        |       – 4        |
+|                             Other parties | -      | -                                                 |           1.54%            |        0         |        0         |
+|                                           |        | ***Total***                                       |            100%            |       349        |        -         |
 
 ###### Partidos que serán considerados para el análisis
 
-Para simplificar el modelo y el análisis espacial, agruparé al Moderate Party (MP) y al Christian Democratic Party (CDP) en un mismo partido, asignando los 19 asientos del CDP a los 68 del MP (la posición de política pública ideal será la correspondiente al partido al que se asigna, en este caso al MP). Por tanto, en el modelo el *Moderate Party* pasará a tener 87 asientos. Además, los asientos correspondientes al Green Party (G) y al Centre Party (CP) los asigno al Left Party (LP), de modo que el LP pasaría a tener 66 asientos. Me quedaré con el partido SSDP y SD, y el LIB como partidos únicos, es decir, a los que no se les asginaron los asientos de ningún otro partido. 
+Para simplificar el modelo y el análisis espacial, agruparé al Moderate Party (MP) y al Christian Democratic Party (CDP) en un mismo partido, asignando los 19 asientos del CDP a los 68 del MP (la posición de política pública ideal será la correspondiente al partido al que se asigna, en este caso al MP). Por tanto, en el modelo el *Moderate Party* pasará a tener 87 asientos. Además, los asientos correspondientes al Green Party (G) y al Centre Party (CP) los asigno al Left Party (LP), de modo que el LP pasaría a tener 66 asientos. Me quedaré con el partido SSDP y SD, y el LIB como partidos únicos, es decir, a los que no se les asignaron los asientos de ningún otro partido.
 
-- El criterio para agrupar a los partidos es que intuitivamente mantienen una proximidad ideológica, por ejemplo, el MP y el CDP forman parte del mismo European Parliament Group, y el G, CP y LP eran los aliados que sostenían el statuos quo $(x_{0})$, de modo que anticipo sería esperable se agrupasen para formar una posible coalición ganadora.
-
+- El criterio para agrupar a los partidos es que intuitivamente mantienen una proximidad ideológica, por ejemplo, el MP y el CDP forman parte del mismo European Parliament Group, y el G, CP y LP eran los aliados que sostenían el status quo $(x_{0})$, de modo que anticipo sería esperable se agrupasen para formar una posible coalición ganadora
+- 
 Para simplificar el análisis espacial renombraré a los partidos como A, B, C, D, E. Al partido con más asientos en el parlamento, según esta simplificación, le corresponderá A, y así sucesivamente. En este sentido, el SSDP pasará a nombrarse A, la suma del MP y el CDP pasará a llamarse B, etc. La siguiente tabla contiene la nueva asignación de asientos en el parlamento:
 
 ###### Tabla 2. Partidos que serán considerados para el análisis
 
-|                                                **Partido** |   Abrev.    | Parlamento - 2022 |
-| ---------------------------------------------------------: | :---------: | :---------------- |
-|          Swedish Social Democratic Party  (SSDP) $(x_{0})$ |      A      | 107               |
-| Moderate Party (MP) / **Christian Democratic Party (CDP)** |      B      | 87                |
-|                                      Sweden Democrats (SD) |      C      | 73                |
-|  Green Party (G) / Centre Party (CP) / **Left Party (LP)** |      D      | 66                |
-|                                              Liberal Party |      E      | 16                |
-|                                                            | ***Total*** | 349               |
+|                                               **Partidos** |          Abrev.          | Modelo - Parlamento 2022 |
+| ---------------------------------------------------------: | :----------------------: | :----------------------- |
+|          Swedish Social Democratic Party  (SSDP) $(x_{0})$ |            A             | 107                      |
+| Moderate Party (MP) / **Christian Democratic Party (CDP)** |            B             | 87                       |
+|                                      Sweden Democrats (SD) |            C             | 73                       |
+|  Green Party (G) / Centre Party (CP) / **Left Party (LP)** |            D             | 66                       |
+|                                        Liberal Party (LIB) |            E             | 16                       |
+|                                                            |       ***Total***        | 349                      |
+|                                                            | ***Umbral mayoritario*** | 175                      |
 
-De lo anteior, y dados los votos obtenidos por cada partido, se obtiene la siguiente lista de posibles coaliciones ganadoras al *statuos quo* $x_{0}$ -- SSDP:
+De lo anteior, y dados los asientos de cada partido, se obtiene la siguiente lista de posibles coaliciones ganadoras {winSet $W(x_{0})$} al *statuos quo* $(x_{0})$ -- SSDP 
 
 ###### Tabla 3. Posibles coaliciones ganadoras
 
-|      |      |
-| ---: | :--: |
-|      |      |
-|      |      |
-|      |      |
+| Coaliciones  Ganadoras | Asientos | Coaliciones Ganadoras | Asientos |
+| ---------------------: | -------- | --------------------: | -------- |
+|                  A + B | 194      |             B + C + D | 226      |
+|                  A + C | 180      |             B + C + E | 176      |
+|              A + B + C | 267      |         A + B + C + D | 333      |
+|              A + B + D | 260      |         A + B + C + E | 283      |
+|              A + B + E | 210      |         A + B + D + E | 276      |
+|              A + C + D | 246      |         A + C + D + E | 262      |
+|              A + C + E | 196      |         B + C + D + E | 242      |
+|              A + D + E | 189      |     A + B + C + D + E | 349      |
+
 
 #### Política pública ideal: migración y redistribución
 
-Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones legislativas ganadoras, el siguiente paso es identificar las posiciones de los partidos en aquellas dimensiones de la política que suponemos les motivan a la hora de negociar la formación del gobierno", así como el punto ideal de cada partido para cada dimensión de política pública en el horizonte izquierda–derecha. (Lever & Shepsle, 1996, 127).  Así pues, para establecer la posición de política pública de cada partido tomo como base la *2019 Chapel Hill Expert Survey (CHES)*, que recoge la percepción de 421 politólogos especializados en política partidista e integración europea. En los siguientes diagramas se representan los puntos ideales de cada partido (A, B, C, D y E) en cada dimensión de política pública identificada previamente para el análisis.
+Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones legislativas ganadoras, el siguiente paso es identificar las posiciones de los partidos en aquellas dimensiones de la política que suponemos les motivan a la hora de negociar la formación del gobierno", así como el punto ideal de cada partido para cada dimensión de política pública en el horizonte izquierda–derecha. (Lever & Shepsle, 1996, 127). Para establecer la posición de política pública de cada partido tomo como base la *2019 Chapel Hill Expert Survey (CHES)*, que recoge la percepción de 421 politólogos especializados en política partidista e integración europea. En los siguientes diagramas se representan los puntos ideales de cada partido (A, B, C, D y E) en cada dimensión de política pública identificada previamente para el análisis.
 
 ###### Política Pública ideal para cada partido político en el horizonte izqueirda – derecha
 
 | Diagrama 1. Política de apertura a la migración v. política restrictiva frente a la migración -- Cartera de Justicia |
 | :----------------------------------------------------------: |
-| Strongly favors a liberal policy on immigration v. Strongly favors a restrictive policy on immigration |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/migracion.PNG"/> |
 | **Diagrama 2. Relevancia de la retórica antiislámica para la dirección del partido -- Cartera de Justicia** |
-|        Not important at all v.  Extremely important.         |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam.png"/> |
 | **Diagrama 3. Redistribución de la riqueza de 'ricos hacia pobres' -- Cartera de Finanzas** |
-| Strongly favors redistribution v. Strongly opposes redistribution |
-| **Diagrama 4. Redistribución de la riqueza de 'ricos hacia pobres' -- Cartera de Finanzas** |
-| Strongly favors redistribution v. Strongly opposes redistribution |
-| **Diagrama 5. Servicios públicos v. reducir impuestos  -- Cartera de Finanzas** |
-| Strongly favors improving public services v. Strongly favors reducing taxes |
-| **Diagrama 6. Posición del partido en política europea y seguridad exterior -- Cartera de Relaciones Exteriores** |
-| Strongly favors improving public services v. Strongly favors reducing taxes |
-|                                                              |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/redistribution.png"/> |
+| **Diagrama 4. Posición del partido sobre política europea y de seguridad europea -- Cartera de Relaciones Exteriores** |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/eu_foreign.png"/> |
+
+- La *política migratoria* es capturada en la cartera Justicia; la dimensión de *política económica*, capturado en la cartera de Finanzas; y la dimensión de *política europea* es capturada por la cartera de Relaciones Exteriores.
 
 #### Análisis espacial -- winSet Calculator
 
-La *política migratoria* es capturada en la cartera Justicia; la dimensión de *política económica*, capturado en la cartera de Finanzas; 
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/immigrate_policy-redistribution.PNG" style= "height: 450px; width:450px;"/> | <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam-redistribution.PNG" style= "height: 450px; width:450px;" /> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam-eu _foreign.PNG" style= "height: 450px; width:450px;"/> | <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/immigrate_policy-redistribution.PNG" style= "height: 450px; width:450px;"/> |
+| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/redistribution-eu foreign.PNG" style= "height: 450px; width:450px;"/> |                                                              |
 
 #### Conclusiones
 
 ##### Posibilidad de vulnerar el status quo
 
-La distribución de asientos dada la votación plantea un *status quo vulnerable*; como bien señala Carlos Torralba, "el ajustadísimo resultado deja en el aire el futuro del país escandinavo" (Torralba, 2022). 
+La distribución de asientos dada la votación plantea un *status quo vulnerable*; como bien señala Carlos Torralba, pero "el ajustadísimo resultado deja en el aire el futuro del país escandinavo" (Torralba, 2022). 
 
-Por tanto, es anticipable que el *Sweden  Democrats* (SD) busque consolidar su discurso de "rechazo frontal a la inmigración" en políticas públicas. El mismo Jimmie Åkesson, líder del *Sweden  Democrats*, aseguró que si hay un cambio en el poder, tendrán un papel central  (Torralba, 2022).
+Es anticipable que el *Sweden  Democrats* (SD) busque consolidar su discurso de "rechazo frontal a la inmigración" en políticas públicas. El mismo Jimmie Åkesson, líder del *Sweden  Democrats*, aseguró que si hay un cambio en el poder, tendrán un papel central  (Torralba, 2022).
 
 * Faltaría definir:
 
@@ -110,9 +117,15 @@ $$
 W(X_{0}); I(X_{0}); C(X_{0});
 $$
 
-- Además, faltaría definir el tipo de gobierno que se formará (Unified, single–party minority; etc.).
+1. Se hace nuevo gobierno si es creíble y gana un voto de investidura → winset W(*x*0)
+2. Partido puede vetar su participación en un gobierno si no hay mejora de Pareto → improvement set I(*x*0)
+3. Contender set: C(*x*0) = W(*x*0) ∩ I (*x*0)
 
+- Además, faltaría definir el tipo de gobierno que se formará (Unified, single–party minority; etc.).
 - Observo la posibilidad de un *status quo* vulnerable, pero no he definido el conjunto de coaliciones creíbles que podrían ganarle.
+
+- Interesante como los populistas han conseguido ganar el debate sobre la inmigración, hasta los moderados abogan por un estado de bienestar con derechos de admisión.
+- "la discusión se dio principalmente en lo relacionado a temas de política de bienestar--redistributiva y política migratoria – criminalidad" ten presente que podría haber otra(s) dimensión que revele algo interesante del conflicto, aunque no haya estado en primer plano de las campañas. Plantea un par de candidatas.
 
 #### Bibliografía
 
