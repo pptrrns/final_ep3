@@ -27,15 +27,9 @@ Sweden Sverige. 2022. "Power from the people! This is how Sweden is governed." L
 
 ## Resultados electorales
 
-*Para estimar las posibles coaliciones de gobierno*:
-
 Valmyndigheten. 2022. "Swedish election results: 2022." Published 23 September 2022. https://www.val.se/servicelankar/otherlanguages/englishengelska/electionresults/electionresults2022.4.14c1f613181ed0043d5583f.html
 
 European Movement Ireland. 2022. "Sweden: General Election." Published September 2022. https://www.europeanmovement.ie/sweden-general-election-september-2022/
-
-## Plataformas electorales
-
-*Para estimar la política pública ideal de cada partido*:
 
 ## Recortes de periódico
 *Son una guía, no incluir en el trabajo*:

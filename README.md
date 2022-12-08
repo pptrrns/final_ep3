@@ -12,15 +12,29 @@ En este sentido, a lo largo del trabajo presentaré los resultados de las elecci
 
 #### Principales temas de campaña
 
-Durante la campaña, Jimmie Åkesson, líder del *Sweden Democrats*, introdujo a la conversación pública temas como "la criminalidad, los problemas de integración de parte de la población inmigrante y la espiral inflacionaria, principalmente en los precios de la energía" (Torralba, 2022a.). Sobre la criminalidad, fue particularmente visible la discusión en torno a la a creciente prevalencia de los delitos con armas, con lo que ciertos sectores, como el de Åkesson, argumentaron sobre la relación de la criminalidad con la inmigración, los problemas de integración y los problemas económicos. Así pues, si bien en la campaña se abordaron muchas problemáticas, en todas estuvo presente la discusión sobre asuntos relativos a la inmigración y la criminalidad (Torralba, 2022b.).
+##### Migración
 
-Otro tema que cobró relevancia en la conversación fue el aumento del costo de vida en el país. Ante el aumento de la inflación, la P.M. Magdalena Andersson, líder del *Swedish Social Democratic Party*, prometió aumentar las prestaciones sociales, instituir un impuesto a la renta más alto, y apoyar a los afectados por la subida de los precios de la energía; por lo que, la discusión sobre asistencia social fue prioritaria (European Movement, 2022 ; Anderson & Kwai, 2022). Sobre este tema, el European Movement señala que "la campaña del *Swedish Social Democratic Party* se centró en 'recuperar el sistema de bienestar'; mientras que el *Moderate Party* esbozó sus planes para hacer frente a la dependencia de las contribuciones del Estado, y los *Sweden Democrats* abogaron por un 'sistema de bienestar sueco para los ciudadanos suecos', argumentando que los inmigrantes no deberían tener derecho a las ayudas del Estado hasta que estén empleados (European Movement, 2022).
+Durante la campaña, Jimmie Åkesson, líder del *Sweden Democrats*, introdujo a la conversación pública temas como "la criminalidad, los problemas de integración de parte de la población inmigrante y la espiral inflacionaria" (Torralba, 2022a.). Sobre la criminalidad, fue particularmente visible la discusión en torno a la a creciente prevalencia de los delitos con armas, argumentando una supuesta relación de la criminalidad con la inmigración, los problemas de integración y los problemas económicos. Así pues, si bien en la campaña se abordaron muchas problemáticas, en todas estuvo presente la discusión sobre asuntos relativos a la inmigración y la criminalidad (Torralba, 2022b.). Para Åkesson, hasta los problemas en educación son culpa de los migrantes, y afirma que si los quitaran de la pruba PISA, los estudiantes suecos saldrían mejor (Lapuente, 2022).
 
-También tuvieron su lugar en la conversación la creciente crisis energética provocada por el conflicto ruso–ucraniano, la transición ecológica y los precios de la energía y combustibles. (European Movement, 2022), pero "quedaron prácticamente excluidos" la adhesión del país a la OTAN y el rompimiento del no–alineamiento militar, así como la estrategia sanitaria durante la pandemia (Torralba, 2022b.).
+En general, el discurso xenófobo y antinmigración, que impulsó la entrada del *Sweden Democrats* en el Parlamento, se ha extendido por gran parte del espectro político, y esta elección no fue la excepción. Según Anders Hellström, profesor de Ciencia Política en la Universidad de Malmö, “hace una década las políticas antinmigración del SDP se consideraban extremistas. Pero se han convertido en la opción dominante, de modo que el *cordón sanitario* para frenar a la ultraderecha se ha evaporado”. Sumado a ello, desde el SSDP enfrentan un fracaso discursivo, pues tras años negando la existencia de un problema de integración, la evidencia muestra que en el país hay unas 60 comunidades desconectadas laboral, cultural y lingüísticamente del resto de la sociedad. Por ejemplo, tras los disturbios en abril de este año en Malmö, ocasionados luego de que Rasmus Paludan, un político de extrema derecha, quemara un Corán durante un mitin, la P.M. Magdalena Andersson, del *Swedish Social Democratic Party*, declaró que “la segregación ha llegado a tal punto que existen sociedades paralelas (…)realidades completamente distintas”, en las que hay comunidades completas que no tienen el sueco como lengua materna. Así pues, incluso Andersson ha asegurado que es necesario transformar los barrios en los que se concentra una mayoría de población extranjera, pues afirma que no quieren *Chinatowns* ni *Somalitowns* (Torrealba, 2022e). Además, durante los años han progresado distintas reformas legislativas que han reducido drásticamente las opciones de obtener el status de refugiado, y, por ejemplo, el mismo gobierno de Andersson propuso la creación de “centros de retorno”, cerca de los aeropuertos, para alojar hasta su deportación a los solicitantes de asilo cuya petición sea denegada.
 
-- *Agregar OTAN / Rusia / Política Europea*
-- De esta forma, la discusión se dio principalmente en lo relacionado a temas de *política de bienestar – redistributiva* y *política migratoria – criminalidad*, por lo que estas dos dimensiones serán las que consideraré para el modelo de distribución de carteras. Del conjunto de carteras ministeriales que conforman al gobierno sueco (Ministry of Culture; Defence; Education and Research; Employment; Enterprise, Energy and Communications; Environment; Finance; Foreign Affairs; Health and Social Affairs; Justice; Rural Affairs), tomo para el análisis la cartera de Justicia (Minsitry of Justice) y la cartera de Finanzas (Ministro of Finance). En la cartera de Justicia se elabora la política migratoria y de asilo; y en la cartera de Finanzas se elabora la política económica, fiscal, presupuestaria, financiera, etc. (Regeringskansliet, 2014). Es decir, estas dos carteras definirán el espacio de análisis para el modelo que planteo, pues tienen jurisdicción sobre las dimensiones planteadas anteriormente.
-- Interesante como los populistas han conseguido ganar el debate sobre la inmigración, hasta los moderados abogan por un estado de bienestar con derechos de admisión. "la discusión se dio principalmente en lo relacionado a temas de política de bienestar--redistributiva y política migratoria – criminalidad" ten presente que podría haber otra(s) dimensión que revele algo interesante del conflicto, aunque no haya estado en primer plano de las campañas. Plantea un par de candidatas.
+##### Economía
+
+Otro tema que cobró relevancia en la conversación fue el aumento del costo de vida en el país. Ante el aumento de la inflación, la P.M. Andersson prometió aumentar las prestaciones sociales, instituir un impuesto a la renta más alto, y apoyar a los afectados por la subida de los precios de la energía; por lo que, la discusión sobre asistencia social fue prioritaria (European Movement, 2022 ; Anderson & Kwai, 2022). Sobre este tema, el European Movement señala que "la campaña del *Swedish Social Democratic Party* se centró en 'recuperar el sistema de bienestar'; mientras que el *Moderate Party* esbozó planes para hacer frente a la dependencia de las contribuciones del Estado, y desde el *Sweden Democrats* abogaron por un 'sistema de bienestar sueco para los ciudadanos suecos' (un estado de bienestar con derecho de admisión), argumentando que los inmigrantes no deberían tener derecho a las ayudas del Estado hasta que estén empleados (European Movement, 2022).
+
+##### Política Europea
+
+También tuvieron en la conversación la creciente crisis energética provocada por el conflicto ruso–ucraniano, la transición ecológica y los precios de la energía y combustibles (European Movement, 2022), pero "quedaron prácticamente excluidos" la adhesión del país a la OTAN y el rompimiento del no–alineamiento militar, así como la estrategia sanitaria durante la pandemia (Torralba, 2022b.). 
+
+Sin embargo, previo al periodo de campañas mantuvo especial relevancia el ingreso de Suecia en la Organización del Tratado Atlántico Norte (OTAN), pues tendría "un efecto disuasorio en el norte de Europa”. La propuesta de adhesión de Suecia a la OTAN fue respaldada en su momento por seis de las ocho fuerzas parlamentarias, salvo el *Green Party* y el *Left Party* -excomunistas—. Como es sabido, la situación de seguridad generada por el conflicto ruso-ucraniano plantea que, si junto a Finlandia, Suecia se convierte en miembro de la Alianza Atlántica, todos los países nórdicos y bálticos estarán protegidos con garantías de la defensa mutua. De modo que es natural el consenso en torno al ingreso a la OTAN. Sin embargo, el acuerdo entre los aprtidos fue tal entre P.M. Andersson, y el líder de la oposición, el conservador Ulf Kristersson, anunciaron juntos la solicitud de ingreso formal. 
+
+Anota bien, no es del todo claro que todos los partidos mantengan posiciones similares en temas de seguridad. Hans Wallmark, del *Moderate Party*, consideró que en los meses que se prolongue la ratificación de ingreso a la OTAN, el país debía realizar constantes maniobras militares en las que participen sus aliados” (Torrealba, 2022c); mientras que la P.M. Andersson consideró que la decisión de revertir su postura sobre el no–alineamiento “no era una decisión sencilla", y que, en todo caso, no debía afectar “la capacidad de Suecia para mantener una política exterior independiente, centrada en la igualdad, la democracia, los derechos humanos y el desarme nuclear” (Torrealba, 2022d)
+
+#### Carteras ministeriales
+
+Como vimos, la discusión se dio principalmente en lo relacionado a temas de *política de bienestar – redistributiva* y *política migratoria – criminalidad*, así como de *política europea - rusia* por lo que estas tres dimensiones serán las que consideraré para el modelo de distribución de carteras. 
+
+Del conjunto de carteras ministeriales que conforman al gobierno sueco (Ministry of Culture; Defence; Education and Research; Employment; Enterprise, Energy and Communications; Environment; Finance; Foreign Affairs; Health and Social Affairs; Justice; Rural Affairs), tomo para el análisis la cartera de Justicia (Minsitry of Justice) y la cartera de Finanzas (Ministro of Finance). En la cartera de Justicia se elabora la política migratoria y de asilo; en la cartera de Finanzas se elabora la política económica, fiscal, presupuestaria, financiera, etc. (Regeringskansliet, 2014); y en la de Relaciones Exteriores la política exterior. Así, estas tres carteras definirán el espacio de análisis para el modelo que planteo, pues tienen jurisdicción sobre las dimensiones planteadas anteriormente.
 
 #### Resultados electorales
 
@@ -111,7 +125,7 @@ El análisis espacial en la WinSet Calculator (1998) arroja un *status quo vulne
 
 Para el par de carteras **Finanzas v. Justicia **arroja como posibles repartos:
 ```r
-																	Preferred by:
+Investigating  :  |   A |   A |    Preferred by:
 Winpoint no. 1 :  |   B |   A |    B    C    E
              2 :  |   C |   A |    B    C    E <- This point has an empty winset.
              3 :  |   E |   A |    B    C    E
@@ -120,9 +134,9 @@ Winpoint no. 1 :  |   B |   A |    B    C    E
 
 Además, para la comparación entre **Finanzas v. Relaciones Exteriores**, arroja como posibles repartos:
 ```R
-																	Preferred by: 
+Investigating  :  |   A |   A |    Preferred by: 
 Winpoint no. 1 :  |   B |   A |    B    C    E
-			 2 :  |   B |   D |    B    C    E
+             2 :  |   B |   D |    B    C    E
              3 :  |   C |   A |    B    C    E <- This point has an empty winset.
              4 :  |   C |   B |    B    C    E
              5 :  |   C |   D |    B    C    E
@@ -149,6 +163,8 @@ Doyle, Paul. 1998. "Winset Calculator".Last update:  25th June 1998. http://home
 
 Jolly, Seth, Ryan Bakker, Liesbet Hooghe, Gary Marks, Jonathan Polk, Jan Rovny, Marco Steenbergen, and Milada Anna Vachudova. Forthcoming. “Chapel Hill Expert Survey Trend File, 2019.” Electoral Studies. https://doi.org/10.1016/j.electstud.2021.102420
 
+Lapuente, Victor. 2022. "Política ‘noir’." El País, 18 de septiembre de 2022. https://elpais.com/opinion/2022-09-19/politica-noir.html
+
 Laver Michael, Kenneth A. Shepsle. 1990. "Coalitions and cabinet government" . American Political Science Association, vol. 84, No. 3:. 873-90. https://doi.org/10.2307/1962770
 
 Laver Michael, Kenneth A. Shepsle. 1996. Making and breaking govertments: cabinets and legislatures in parliamentary democracies. New York: Cambridge University Press.
@@ -158,5 +174,11 @@ Regeringskansliet (Government Offices of Sweden). 2014. "How Sweden is governed"
 Torralba, Carlos. 2022a. "El Partido Socialdemócrata gana las elecciones en Suecia pero la subida de la derecha deja en el aire el Gobierno." El País, 11 de septiembre de 2022. https://bit.ly/3FhI6UP
 
 Torralba, Carlos. 2022b. "La primera ministra sueca anuncia su dimisión tras confirmarse la victoria del bloque de la derecha." El País, 14 de septiembre de 2022. https://bit.ly/3SDR1mC
+
+Torralba, Carlos. 2022c. "Suecia cree que su ingreso en la OTAN reduciría el riesgo de conflicto en el norte de Europa." El País, 13 de mayo de 2022. https://elpais.com/internacional/2022-05-13/suecia-cree-que-su-ingreso-en-la-otan-reduciria-el-riesgo-de-conflicto-en-el-norte-de-europa.html
+
+Torralba, Carlos. 2022d. "Suecia anuncia formalmente que solicitará su ingreso en la OTAN." El País, 16 de mayo de 2022. https://elpais.com/internacional/2022-05-16/suecia-confirma-que-solicitara-la-adhesion-a-la-otan.html
+
+Torralba, Carlos. 2022e. "El discurso antinmigración arrastra a la socialdemocracia sueca." El País, 7 de septiembre de 2022. https://elpais.com/internacional/2022-09-08/el-discurso-antinmigracion-arrastra-a-la-socialdemocracia-sueca.html
 
 Valmyndigheten. 2022. "Swedish election results: 2022." Published 23 September 2022. https://bit.ly/3THpNfZ
