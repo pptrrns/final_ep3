@@ -86,21 +86,24 @@ Como afirman Laver y Shepsle, "una vez identificado el conjunto de coaliciones l
 
 | Diagrama 1. Política de apertura a la migración v. política restrictiva frente a la migración -- Cartera de Justicia |
 | :----------------------------------------------------------: |
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/migracion.PNG"/> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/migracion.png?raw=true) |
 | **Diagrama 2. Relevancia de la retórica antiislámica para la dirección del partido -- Cartera de Justicia** |
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam.png"/> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/anti_islam.png?raw=true) |
 | **Diagrama 3. Redistribución de la riqueza de 'ricos hacia pobres' -- Cartera de Finanzas** |
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/redistribution.png"/> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/redistribution.png?raw=true) |
 | **Diagrama 4. Posición del partido sobre política europea y de seguridad europea -- Cartera de Relaciones Exteriores** |
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/eu_foreign.png"/> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/eu_foreign.png?raw=true) |
 
 - La *política migratoria* es capturada en la cartera Justicia; la dimensión de *política económica*, capturado en la cartera de Finanzas; y la dimensión de *política europea* es capturada por la cartera de Relaciones Exteriores.
 
 ### Análisis espacial -- winSet Calculator
 
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/immigrate_policy-redistribution.PNG" style= "height: 450px; width:450px;"/> | <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam-redistribution.PNG" style= "height: 450px; width:450px;" /> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/anti_islam-redistribution.png?raw=true) | ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/immigrate_policy-redistribution.PNG?raw=true) |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/anti_islam-eu _foreign.PNG" style= "height: 450px; width:450px;"/> | <img src= "/Users/jtorrensh/Documents/GitHub/final_ep3/winsetCalc/plots/redistribution-eu foreign.PNG" style= "height: 450px; width:450px;"/> |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/anti_islam-eu%20_foreign.png?raw=true) | ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/redistribution-eu%20foreign.png?raw=true) |
+| ![alt text](https://github.com/pptrrns/final_ep3/blob/main/winsetCalc/plots/immigrate_policy-eu_foreignPNG.png?raw=true) |                                                              |
+
+​	
 
 #### Posibilidad de vulnerar el status quo
 
