@@ -1,0 +1,526 @@
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   A |
+                     .-----.-----.
+
+                     This point has an empty winset.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   B |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    D    E
+                2 :  |   A |   E |    A    D    E
+                3 :  |   B |   A |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   C |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   D |    A    D    E
+                4 :  |   A |   E |    A    B    D    E
+                5 :  |   B |   A |    A    B    D    E
+                6 :  |   B |   B |    A    B    D    E
+                7 :  |   B |   D |    A    D    E
+                8 :  |   B |   E |    A    B    D    E
+                9 :  |   C |   A |    A    B    D    E
+               10 :  |   C |   B |    A    B    C    D
+               11 :  |   C |   E |    A    D    E
+               12 :  |   D |   A |    A    B    D    E
+               13 :  |   D |   B |    A    B    D    E
+               14 :  |   D |   D |    A    D    E
+               15 :  |   D |   E |    A    D    E
+               16 :  |   E |   A |    A    B    D    E
+               17 :  |   E |   B |    A    B    D    E
+               18 :  |   E |   D |    A    D    E
+               19 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   D |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    B    C    E
+                4 :  |   B |   A |    A    B    C
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    C    E
+                7 :  |   D |   A |    A    B    C    E
+                8 :  |   D |   B |    A    B    C
+                9 :  |   D |   E |    A    B    C    E
+               10 :  |   E |   A |    A    B    C    E
+               11 :  |   E |   B |    A    B    C    E
+               12 :  |   E |   E |    A    B    C    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   E |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    D    E
+                2 :  |   A |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   B |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    D    E
+                2 :  |   A |   B |    A    D    E
+                3 :  |   A |   E |    A    D    E
+                4 :  |   B |   A |    A    D    E
+                5 :  |   B |   E |    A    D    E
+                6 :  |   D |   A |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   C |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   C |    A    D    E
+                4 :  |   A |   D |    A    D    E
+                5 :  |   A |   E |    A    B    D    E
+                6 :  |   B |   A |    A    B    D    E
+                7 :  |   B |   B |    A    B    D    E
+                8 :  |   B |   D |    A    D    E
+                9 :  |   B |   E |    A    B    D    E
+               10 :  |   C |   A |    A    B    D    E
+               11 :  |   C |   B |    A    B    D    E
+               12 :  |   C |   D |    A    D    E
+               13 :  |   C |   E |    A    D    E
+               14 :  |   D |   A |    A    D    E
+               15 :  |   D |   B |    A    B    D    E
+               16 :  |   D |   D |    A    D    E
+               17 :  |   D |   E |    A    D    E
+               18 :  |   E |   A |    A    B    D    E
+               19 :  |   E |   B |    A    B    D    E
+               20 :  |   E |   D |    A    D    E
+               21 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   D |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C    E
+                3 :  |   A |   D |    A    D    E
+                4 :  |   A |   E |    A    B    C    D    E
+                5 :  |   B |   A |    A    B    C    E
+                6 :  |   B |   B |    A    B    C
+                7 :  |   B |   E |    A    B    C    E
+                8 :  |   D |   A |    A    B    C    E
+                9 :  |   D |   B |    A    B    C
+               10 :  |   D |   E |    A    B    C    D    E
+               11 :  |   E |   A |    A    B    C    E
+               12 :  |   E |   B |    A    B    C    E
+               13 :  |   E |   E |    A    B    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   E |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    D    E
+                4 :  |   B |   A |    A    B    C
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   D |    A    D    E
+                4 :  |   A |   E |    A    B    D    E
+                5 :  |   B |   A |    A    B    D    E
+                6 :  |   B |   B |    A    B    C    D    E
+                7 :  |   B |   D |    A    D    E
+                8 :  |   B |   E |    A    B    D    E
+                9 :  |   D |   A |    A    D    E
+               10 :  |   D |   B |    A    B    D    E
+               11 :  |   D |   D |    A    D    E
+               12 :  |   D |   E |    A    D    E
+               13 :  |   E |   A |    A    B    D    E
+               14 :  |   E |   B |    A    B    D    E
+               15 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   B |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   D |    A    D    E
+                4 :  |   A |   E |    A    B    D    E
+                5 :  |   B |   A |    A    B    D    E
+                6 :  |   B |   B |    A    B    D    E
+                7 :  |   B |   D |    A    D    E
+                8 :  |   B |   E |    A    B    D    E
+                9 :  |   C |   A |    A    D    E
+               10 :  |   C |   E |    A    D    E
+               11 :  |   D |   A |    A    D    E
+               12 :  |   D |   B |    A    D    E
+               13 :  |   D |   D |    A    D    E
+               14 :  |   D |   E |    A    D    E
+               15 :  |   E |   A |    A    D    E
+               16 :  |   E |   B |    A    B    D    E
+               17 :  |   E |   D |    A    D    E
+               18 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   C |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   C |    A    B    D    E
+                4 :  |   A |   D |    A    D    E
+                5 :  |   A |   E |    A    B    D    E
+                6 :  |   B |   A |    A    B    D    E
+                7 :  |   B |   B |    A    B    D    E
+                8 :  |   B |   C |    A    B    D    E
+                9 :  |   B |   D |    A    D    E
+               10 :  |   B |   E |    A    B    D    E
+               11 :  |   C |   A |    A    B    D    E
+               12 :  |   C |   B |    A    B    D    E
+               13 :  |   C |   D |    A    D    E
+               14 :  |   C |   E |    A    B    D    E
+               15 :  |   D |   A |    A    B    D    E
+               16 :  |   D |   B |    A    B    D    E
+               17 :  |   D |   C |    A    D    E
+               18 :  |   D |   D |    A    D    E
+               19 :  |   D |   E |    A    B    D    E
+               20 :  |   E |   A |    A    B    D    E
+               21 :  |   E |   B |    A    B    D    E
+               22 :  |   E |   C |    A    B    D    E
+               23 :  |   E |   D |    A    D    E
+               24 :  |   E |   E |    A    B    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   D |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    D    E
+                2 :  |   A |   B |    A    B    C    D    E
+                3 :  |   A |   C |    A    B    C
+                4 :  |   A |   D |    A    B    D    E
+                5 :  |   A |   E |    A    B    C    D    E
+                6 :  |   B |   A |    A    B    C    D    E
+                7 :  |   B |   B |    A    B    C    E
+                8 :  |   B |   D |    A    B    D    E
+                9 :  |   B |   E |    A    B    C    D    E
+               10 :  |   C |   A |    A    B    C    E
+               11 :  |   C |   B |    A    B    C
+               12 :  |   C |   E |    A    B    C    E
+               13 :  |   D |   A |    A    B    C    D    E
+               14 :  |   D |   B |    A    B    C    D    E
+               15 :  |   D |   D |    A    D    E
+               16 :  |   D |   E |    A    B    D    E
+               17 :  |   E |   A |    A    B    D    E
+               18 :  |   E |   B |    A    B    C    E
+               19 :  |   E |   C |    B    C    E
+               20 :  |   E |   D |    A    B    D    E
+               21 :  |   E |   E |    A    B    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   E |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    C    D    E
+                3 :  |   A |   D |    A    D    E
+                4 :  |   A |   E |    A    B    D    E
+                5 :  |   B |   A |    A    B    D    E
+                6 :  |   B |   B |    A    B    C    E
+                7 :  |   B |   D |    A    D    E
+                8 :  |   B |   E |    A    B    D    E
+                9 :  |   C |   A |    A    B    C
+               10 :  |   D |   A |    A    B    D    E
+               11 :  |   D |   B |    A    B    D    E
+               12 :  |   D |   D |    A    D    E
+               13 :  |   D |   E |    A    D    E
+               14 :  |   E |   A |    A    B    D    E
+               15 :  |   E |   B |    A    B    D    E
+               16 :  |   E |   D |    A    D    E
+               17 :  |   E |   E |    A    B    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   D |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    B    C    D    E
+                4 :  |   B |   A |    A    B    C
+                5 :  |   B |   E |    A    B    C    E
+                6 :  |   E |   B |    B    C    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   D |   B |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    C    E
+                3 :  |   A |   E |    A    B    D    E
+                4 :  |   B |   A |    A    B    C    D    E
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    D    E
+                7 :  |   D |   A |    A    D    E
+                8 :  |   D |   E |    A    D    E
+                9 :  |   E |   A |    A    D    E
+               10 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   D |   C |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    D    E
+                3 :  |   A |   C |    A    B    C    E
+                4 :  |   A |   D |    A    D    E
+                5 :  |   A |   E |    A    B    D    E
+                6 :  |   B |   A |    A    B    D    E
+                7 :  |   B |   B |    A    B    C    D    E
+                8 :  |   B |   C |    A    B    C
+                9 :  |   B |   D |    A    D    E
+               10 :  |   B |   E |    A    B    D    E
+               11 :  |   C |   A |    A    B    C    D    E
+               12 :  |   C |   B |    A    B    C    D
+               13 :  |   C |   D |    A    D    E
+               14 :  |   C |   E |    A    B    D    E
+               15 :  |   D |   A |    A    B    D    E
+               16 :  |   D |   B |    A    B    D    E
+               17 :  |   D |   D |    A    D    E
+               18 :  |   D |   E |    A    B    D    E
+               19 :  |   E |   A |    A    B    D    E
+               20 :  |   E |   B |    A    B    D    E
+               21 :  |   E |   D |    A    D    E
+               22 :  |   E |   E |    A    B    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   D |   D |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   D |    A    B    C    E
+                4 :  |   A |   E |    A    B    C    E
+                5 :  |   B |   A |    A    B    C    E
+                6 :  |   B |   B |    A    B    C
+                7 :  |   B |   D |    A    B    C
+                8 :  |   B |   E |    A    B    C    E
+                9 :  |   D |   A |    A    B    C    E
+               10 :  |   D |   B |    A    B    C
+               11 :  |   D |   E |    A    B    C    E
+               12 :  |   E |   A |    A    B    C    E
+               13 :  |   E |   B |    A    B    C    E
+               14 :  |   E |   E |    A    B    C    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   D |   E |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    E
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    B    C    E
+                4 :  |   B |   A |    A    B    C
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    C
+                7 :  |   D |   A |    A    B    C
+                8 :  |   E |   A |    A    B    C    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    D
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    B    C    D
+                4 :  |   B |   A |    A    B    C
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    C    D
+                7 :  |   D |   A |    A    C    D
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   B |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C    D    E
+                2 :  |   A |   B |    A    B    C    D
+                3 :  |   A |   E |    A    D    E
+                4 :  |   B |   A |    A    B    C    D
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    C    D
+                7 :  |   D |   B |    A    C    D
+                8 :  |   D |   E |    A    D    E
+                9 :  |   E |   A |    A    D    E
+               10 :  |   E |   E |    A    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   C |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    D    E
+                2 :  |   A |   B |    A    B    C    D    E
+                3 :  |   A |   C |    A    B    C    D
+                4 :  |   A |   D |    A    D    E
+                5 :  |   A |   E |    A    B    D    E
+                6 :  |   B |   A |    A    B    D    E
+                7 :  |   B |   B |    A    B    C    D    E
+                8 :  |   B |   C |    A    B    C
+                9 :  |   B |   D |    A    D    E
+               10 :  |   B |   E |    A    B    D    E
+               11 :  |   C |   A |    A    B    C    D
+               12 :  |   C |   B |    A    B    C    D
+               13 :  |   C |   E |    A    B    D    E
+               14 :  |   D |   A |    A    B    D    E
+               15 :  |   D |   B |    A    B    D    E
+               16 :  |   D |   C |    A    C    D
+               17 :  |   D |   D |    A    D    E
+               18 :  |   D |   E |    A    B    D    E
+               19 :  |   E |   A |    A    B    D    E
+               20 :  |   E |   B |    A    B    D    E
+               21 :  |   E |   D |    A    D    E
+               22 :  |   E |   E |    A    B    D    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   D |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   D |    A    B    C    D
+                4 :  |   A |   E |    A    B    C    E
+                5 :  |   B |   A |    A    B    C
+                6 :  |   B |   B |    A    B    C
+                7 :  |   B |   D |    A    B    C
+                8 :  |   B |   E |    A    B    C
+                9 :  |   C |   A |    A    B    C
+               10 :  |   D |   A |    A    B    C
+               11 :  |   D |   B |    A    B    C
+               12 :  |   D |   D |    A    C    D
+               13 :  |   D |   E |    A    B    C    D
+               14 :  |   E |   A |    A    B    C    E
+               15 :  |   E |   B |    A    B    C
+               16 :  |   E |   E |    A    B    C    E
+                     .-----.-----.
+
+
+                           .---------Foreign Affairs
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   E |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   A |    A    B    C
+                2 :  |   A |   B |    A    B    C
+                3 :  |   A |   E |    A    B    C    D
+                4 :  |   B |   A |    A    B    C
+                5 :  |   B |   B |    A    B    C
+                6 :  |   B |   E |    A    B    C
+                7 :  |   D |   A |    A    B    C    D
+                8 :  |   D |   E |    A    C    D
+                9 :  |   E |   A |    A    B    C
+                     .-----.-----.
+

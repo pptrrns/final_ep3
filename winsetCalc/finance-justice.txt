@@ -1,0 +1,50 @@
+
+                           .---------Finance
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   A |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   B |   A |    B    C    E
+                2 :  |   C |   A |    B    C    E
+                3 :  |   E |   A |    B    C    E
+                     .-----.-----.
+
+
+                           .---------Finance
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   B |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   B |    A    C    D
+                2 :  |   C |   A |    A    C    D
+                3 :  |   C |   B |    A    B    C
+                4 :  |   C |   E |    A    D    E
+                5 :  |   D |   B |    A    C    D
+                6 :  |   E |   A |    A    C    D    E
+                     .-----.-----.
+
+
+                           .---------Finance
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   C |   A |
+                     .-----.-----.
+
+                     This point has an empty winset.
+
+
+                           .---------Finance
+                          /     .----Justice
+                         /     /
+                     .-----.-----.
+    Investigating :  |   E |   A |
+                     .-----.-----.   Preferred by: 
+   Winpoint no. 1 :  |   A |   B |    A    C    D
+                2 :  |   C |   A |    A    C    D
+                3 :  |   C |   B |    A    B    C
+                4 :  |   C |   E |    A    D    E
+                5 :  |   D |   B |    A    C    D
+                     .-----.-----.
